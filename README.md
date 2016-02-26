@@ -1,4 +1,4 @@
-# groovy-spock
+# groovy-strings
 
 https://github.com/xraybat/groovy-strings
 
